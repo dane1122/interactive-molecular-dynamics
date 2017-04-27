@@ -1,7 +1,7 @@
 # Interactive Simulation on the browser using LAMMPS 
 
-see [LAMMPS](http://lammps.sandia.gov/doc/Manual.html) for the powerful underlying software 
-  S. Plimpton, Fast Parallel Algorithms for Short-Range Molecular Dynamics, J Comp Phys, 117, 1-19 (1995)
+see [LAMMPS](http://lammps.sandia.gov/doc/Manual.html) for the powerful underlying software
+> S. Plimpton, Fast Parallel Algorithms for Short-Range Molecular Dynamics, J Comp Phys, 117, 1-19 (1995)
 
 see [Emscripten](http://kripken.github.io/emscripten-site/) to find out how we brought C++ into the web  
 
