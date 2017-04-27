@@ -1,6 +1,8 @@
-# Autodesk Interactive Simulation  
+# Interactive Simulation on the browser using LAMMPS 
 
 see [LAMMPS](http://lammps.sandia.gov/doc/Manual.html) for the powerful underlying software 
+  S. Plimpton, Fast Parallel Algorithms for Short-Range Molecular Dynamics, J Comp Phys, 117, 1-19 (1995)
+
 see [Emscripten](http://kripken.github.io/emscripten-site/) to find out how we brought C++ into the web  
 
 > Welcome to Interactive Simulation web page developed by Autodesk's BioNano group. This webpage allows powerful simulation tool to run on your browser on-the-go. You no longer need to install the tools on your computer to run molecular dynamics. The webpage allows you to run complicated simulations on your browser with just a button click.  
